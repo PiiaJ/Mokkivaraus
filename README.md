@@ -1,3 +1,3 @@
 # Mokkivaraus
 
-School project to learn better php and MySql.
+This project is not on priority list. Still thinking if finish it or not.
